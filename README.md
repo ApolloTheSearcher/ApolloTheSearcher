@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gentha Ardaana</h1>
 <h3 align="center">Backend Developer SMAN 1 CIBADAK</h3>
-<img align="right" alt="logo" width="400" src="https://avatars.githubusercontent.com/u/99478967?v=4">
+<img align="right" alt="logo" width="200" src="https://avatars.githubusercontent.com/u/99478967?v=4">
 
 - 🌱 I’m currently learning **Django, Codecademy,etc**
 
