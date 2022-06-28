@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **SMANDAK DEVELOPER**
 
-- 💬 Ask me about **Django, Python, Dart**
+- 💬 Ask me about **Django, Python, Dart.**
 
 - 📫 How to reach me **gentaputra378@gmail.com**
 
